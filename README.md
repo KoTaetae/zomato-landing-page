@@ -1,3 +1,5 @@
-# This is a zomato landing page clone
+# Zomato Landing Page 10622
 
-This is new setup branch
+This is a basic web development project built with HTML and CSS.
+
+This is New Setup Branch
