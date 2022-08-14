@@ -484,6 +484,7 @@ position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 
 .social__links_container button i{
@@ -499,7 +500,7 @@ position: relative;
   width: 90%;
   margin: auto;
   color: grey;
-  font-size: 12px;
+  font-size: 13px;
   border-top: 1px solid grey;
   padding-top: 1.5rem;
 }
